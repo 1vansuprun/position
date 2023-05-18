@@ -1,0 +1,47 @@
+.container{
+background-color: royalblue;
+width: 350px;
+margin-left: 75px;
+padding-left: 10px;
+height: 350px;
+position: relative;
+
+}
+.bk{
+    display: flex;
+    margin-top: 330px;
+
+}
+
+.text{
+    width: 300px;
+}
+
+.more{
+    margin-top: 190px;
+    margin-bottom: 0;
+}
+
+
+
+.pos1{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 324px;
+}
+
+.pos2{
+    height: 50px;
+    width: 50px;
+    left: 324px;
+    position: relative;
+    bottom: 350px;
+}
+
+.pos3{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 140px;
+}
